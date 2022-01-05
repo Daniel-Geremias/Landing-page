@@ -72,6 +72,10 @@ button {
     padding: 8px 25px 8px 25px;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .hero-img {
     width: 500px;
 }
